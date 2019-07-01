@@ -6,6 +6,8 @@ CI Tools                -    Jenkins
 
 Build Tools             -    ANT/MAVEN/Gradle
 
+Binaries                -    Jfrog Artifactory
+
 CD Tools                -    UDeploy/AWS
 
 Config Management Tool  -    Ansible/Chef/Puppet/Salt
