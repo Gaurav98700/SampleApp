@@ -1,0 +1,19 @@
+Things to Learn:
+
+Version Control System  -    SVN/GIT
+
+CI Tools                -    Jenkins
+
+Build Tools             -    ANT/MAVEN/Gradle
+
+CD Tools                -    UDeploy/AWS
+
+Config Management Tool  -    Ansible/Chef/Puppet/Salt
+
+Continous Monitoring Tool-   Nagios
+
+Containerization        -    Docker/Kubernetes
+
+Quality                 -    SonarQube
+
+Other                   -    Groovy/Yaml
