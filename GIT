@@ -1,0 +1,23 @@
+Steps to fetch github code to local repo
+
+git --version
+
+if git is not installed,
+ yum install git -y
+git config --global user.name "Gaurav98700"
+git clone https://github.com/Gaurav98700/hello-world.git
+git pull https://github.com/Gaurav98700/hello-world.git
+ls
+cd webapp/(file to be edited)
+cat filename
+vi filename
+git status
+
+git add .
+git commit -m "modified xyz file"
+(commit will effect your local repo)
+
+To push code to GITHUB repo 
+git push origin master
+
+
