@@ -5,6 +5,8 @@ git --version
 if git is not installed,
  yum install git -y
 git config --global user.name "Gaurav98700"
+#git config --global user.email you@example.com
+
 git clone https://github.com/Gaurav98700/hello-world.git
 git pull https://github.com/Gaurav98700/hello-world.git
 ls
