@@ -18,8 +18,15 @@ git status
 git add .
 git commit -m "modified xyz file"
 (commit will effect your local repo)
-
 To push code to GITHUB repo 
 git push origin master
 
+****///\\\\****
+Steps to push code from local repo to Github
+1.Create a new repo on cmd
 
+git init
+git add README.md
+git commit -m "First commit"
+git remote add origin URL
+git push -u origin master
