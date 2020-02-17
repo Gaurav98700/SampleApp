@@ -8,6 +8,7 @@ git config --global user.name "Gaurav98700"
 #git config --global user.email you@example.com
 
 git clone https://github.com/Gaurav98700/hello-world.git
+cd hello-world
 git pull https://github.com/Gaurav98700/hello-world.git
 ls
 cd webapp/(file to be edited)
